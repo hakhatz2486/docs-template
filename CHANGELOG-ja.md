@@ -2,7 +2,7 @@
 
 [English](CHANGELOG.md) | 日本語
 
-変更履歴のフォーマットは[Keep a Changelog](http://keepachangelog.com/)に基づいており、バージョン番号[Semantic Versioning](http://semver.org/)で表しています。
+変更履歴のフォーマットは[Keep a Changelog](http://keepachangelog.com)に基づいており、バージョン番号[Semantic Versioning](http://semver.org)で表しています。
 
 ## [Unreleased]
 

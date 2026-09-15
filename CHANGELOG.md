@@ -2,8 +2,7 @@
 
 English | [日本語](CHANGELOG-ja.md)
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/),
-and version numbers follow [Semantic Versioning](http://semver.org/).
+The format is based on [Keep a Changelog](http://keepachangelog.com), and version numbers follow [Semantic Versioning](http://semver.org).
 
 ## [Unreleased]
 

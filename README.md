@@ -16,8 +16,8 @@ When reporting a bug, please include reproduction steps, expected behavior, actu
 
 ## License
 
-[MIT](/LICENSE)
+[MIT](LICENSE)
 
 ## Changelog
 
-[CHANGELOG](/CHANGELOG.md)
+[CHANGELOG](CHANGELOG.md)

@@ -18,8 +18,8 @@ Issue、Pull Requestを歓迎します。
 
 ## 使用許諾
 
-[MIT](/LICENSE)
+[MIT](LICENSE)
 
 ## 変更履歴
 
-[CHANGELOG](/CHANGELOG-ja.md)
+[CHANGELOG](CHANGELOG-ja.md)

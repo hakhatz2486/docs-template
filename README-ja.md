@@ -20,4 +20,4 @@ Issue、Pull Requestを歓迎します。
 
 ## 変更履歴
 
-[CHANGELOG](CHANGELOG-ja.md)
+[CHANGELOG-ja](CHANGELOG-ja.md)

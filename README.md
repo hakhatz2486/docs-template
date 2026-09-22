@@ -16,7 +16,7 @@ When reporting a bug, please include reproduction steps, expected behavior, actu
 
 ## License
 
-[MIT](LICENSE)
+[MIT License](LICENSE)
 
 ## Changelog
 
